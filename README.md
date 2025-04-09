@@ -1,1 +1,4 @@
-"# Sztuczna_Inteligencja" 
+# Sztuczna_Inteligencja
+**Wojciech Mierzwa**  
+### Indeks
+20858
